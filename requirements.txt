@@ -1,0 +1,8 @@
+numpy
+pandas
+rasterio
+matplotlib
+# Earth Engine model training (notebook cells 0-9)
+earthengine-api>=1.0
+geemap
+ipywidgets
